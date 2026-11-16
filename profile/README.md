@@ -1,8 +1,7 @@
 # StarLance
 
 StarLance is a community balance mod for StarCraft II with a ranked ladder
-outside the game client. Every result comes from a replay the app uploads, so
-there is nothing to type and nothing to report by hand.
+outside the game client. Every result comes from a replay the app uploads.
 
 ## The app
 
